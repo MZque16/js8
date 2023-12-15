@@ -33,8 +33,10 @@ body {
     margin-right: 10px;
   }
   
-  .main-content {
+  .main-content__heading_red {
     padding: 20px;
+    background-color: red;
+    font-size: 20px;
   }
   
   .sidebar {
